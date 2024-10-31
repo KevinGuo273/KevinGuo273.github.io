@@ -1,0 +1,105 @@
+---
+title: "Academic Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## EDUCATION
+
+<table width="100%">
+  <!-- Columbia University -->
+  <tr>
+    <td><strong>Columbia University Mailman School of Public Health</strong></td>
+    <td align="right"><strong>New York, NY</strong></td>
+  </tr>
+  <tr>
+    <td>MS in Biostatistics (Public Health Data Science)</td>
+    <td align="right" style="white-space: nowrap;">Sep. 2024 – Expected May 2026</td>
+  </tr>
+
+  <!-- Hong Kong Baptist University -->
+  <tr>
+    <td><strong>Hong Kong Baptist University</strong></td>
+    <td align="right"><strong>Hong Kong, China</strong></td>
+  </tr>
+  <tr>
+    <td>BS in Data Science</td>
+    <td align="right">Sep. 2020 – Jun. 2024</td>
+  </tr>
+  <tr>
+    <td>Relevant Courses: Probability, Calculus, Linear Algebra, Discrete Structures, Regression Analysis, Optimization, Numerical Computation, Data Structure, Algorithms, Data Mining, Machine Learning</td>
+  </tr>
+
+  <!-- University of Pennsylvania -->
+  <tr>
+    <td><strong>University of Pennsylvania</strong></td>
+    <td align="right"><strong>Philadelphia, PA</strong></td>
+  </tr>
+  <tr>
+    <td>Exchange student</td>
+    <td align="right">Sep. 2023 – Dec. 2023</td>
+  </tr>
+  <tr>
+    <td>Relevant Courses: Deep Learning (Hands-on), Econometrics, Text Analytics</td>
+  </tr>
+</table>
+
+## PROJECTS
+
+<table width="100%">
+  <!-- project 1 -->
+  <tr>
+    <td width="70%"><strong>Using VAE Technology to Make Facial Images Smile</strong></td>
+    <td width="30%" align="right">Nov. 2023 – Dec. 2023</td>
+  </tr>
+  <tr>
+    <td colspan="2">• Utilized <strong>PyTorch</strong> for innovative optimization of VAE structure, focusing on latent space design.<br>
+        • Tackled the challenge of balancing model complexity with computational efficiency, reducing training and inference times by <strong>12%</strong>, maintaining high accuracy.<br>
+        • Conducted extensive research and application of loss functions like reconstruction loss and KL divergence, leading to effective intrinsic data structure learning and high-quality smile generation in images.</td>
+  </tr>
+
+  <!-- project 2 -->
+  <tr>
+    <td width="70%"><strong>Financial News Sentiment Analysis</strong></td>
+    <td width="30%" align="right">Sep. 2023 – Oct. 2023</td>
+  </tr>
+  <tr>
+    <td colspan="2">• Scraped over 200 pages of CNBC's S&P 500 financial news. Applied comprehensive data cleaning and integration to establish a solid foundation for accurate analysis.<br>
+        • Used <strong>VaderSentiment</strong> for sentiment polarity analysis of news titles and descriptions, <strong>clustering</strong> news into positive, negative, and neutral categories based on their values.<br>
+        • Utilized visualization techniques to understand data patterns and trends for <strong>exploratory data analysis</strong>.<br>
+        • Addressed data imbalance with oversampling. Applied logistic regression and Naive Bayes for baseline analysis, then explored deep learning with <strong>LSTM</strong> and <strong>Transformer</strong>, increasing predictive accuracy by <strong>18%</strong>.<br>
+        • Performed <strong>topic modeling</strong> with algorithms like <strong>LDA</strong> to identify key themes and trends in financial news, uncovering correlations and dynamic changes among different topics.</td>
+  </tr>
+
+  <!-- project 3 -->
+  <tr>
+    <td width="70%"><strong>Epidemiological Trend Analysis with Statistical Modeling</strong></td>
+    <td width="30%" align="right">May 2023 – June 2023</td>
+  </tr>
+  <tr>
+    <td colspan="2">• Created a Python-based data processing pipeline, focusing on data cleaning, transformation, and normalization.<br>
+        • Engineered a statistical model using logistic regression and time-series analysis to interpret epidemiological data, accurately forecasting health trends with a <strong>95% predictive accuracy</strong>.<br>
+        • Integrated machine learning techniques, like random forests and principal component analysis, into the model to identify critical disease spread predictors.<br>
+        • Designed an interactive visualization dashboard using <strong>R</strong> and <strong>Shiny</strong>, providing real-time insights into health trends for effective public health strategy planning.</td>
+  </tr>
+
+  <!-- project 4 -->
+  <tr>
+    <td width="70%"><strong>Neural Image Style Transfer</strong><br>
+      <span style="white-space: nowrap;">Based on "Image Style Transfer Using Convolutional Neural Networks" (Gatys et al., CVPR 2015)</span>
+    </td>
+    <td width="30%" align="right"></td>
+  </tr>
+  <tr>
+    <td colspan="2">• Implemented image style transfer using pre-trained SqueezeNet, optimizing content and style representation through custom loss functions.<br>
+        • Applied techniques like Gram matrix calculation and total variation regularization to improve image quality.<br>
+        • Enhanced stylization and improved transformations by blending content and artistic features.</td>
+  </tr>
+</table>
+
+  
+  
+  
+  
