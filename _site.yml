@@ -1,0 +1,18 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Xuanyu Guo"
+  right:
+    - text: "Experience"
+      href: experience.html
+    - text: "Dashboard"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<xg2451@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/KevinGuo273/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/kevin-g-57571b29b/
+output:
+  html_document:
+    theme: cerulean

@@ -1,0 +1,33 @@
+---
+title: "Welcome!"
+output: 
+  html_document:
+    # toc: true
+    toc_float: true
+---
+
+
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+    <h2>About me</h2>
+    <hr>
+      <p style="font-size: 16px;">I'm Xuanyu Guo and currently pursuing a Master's in Biostatistics at Columbia University, with a strong focus on applying ML and DL techniques to real-world problems in healthcare and beyond. My interests lie at the intersection of data science and software engineering, where I aim to leverage my statistical and computational skills to build scalable, impactful models. Whether through data analysis, predictive modeling, or software development, I am passionate about creating solutions that drive innovation.</p>
+
+    <td width="30%" valign="top" align="right" style="padding-left: 70px;">
+      <img src="image/img1.jpeg" alt="img" width="250px"/>
+      <table align="left" style="margin-top: 10px;">
+        <tr>
+          <td style="padding-right: 8px;"><i class="fas fa-university"></i></td>
+          <td>Columbia University</td>
+        </tr>
+        <tr>
+          <td style="padding-right: 8px;"><i class="fas fa-map-marker-alt"></i></td>
+          <td>New York</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
